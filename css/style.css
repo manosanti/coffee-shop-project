@@ -599,11 +599,9 @@ section{
     padding:1.5rem;
 }
 
-.footer .credit span{
-    color:var(--main-color);
+.credit a {
+    color: var(--main-color);
 }
-
-
 
 
 /* ----- Responsividade----- */
